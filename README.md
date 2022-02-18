@@ -3,3 +3,4 @@ This repository contains all the Hands On Deep Learning projects for practice.
 ### Categories:
 - Linear Regression
 - Logistic Regression
+- Binary Classification
